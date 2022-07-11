@@ -1,0 +1,5 @@
+######## Django commands #############
+
+cmd - To Create requirement.txt.
+	(pip3 freeze -l> requirements.tex)
+
